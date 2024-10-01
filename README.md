@@ -5,4 +5,4 @@ Divide By Zero
 Arithmetic Error
 Etc..
 
-To get Output Click Here 
+To use Calculate Click here [OPEN Calculator](https://er-md-arfat.github.io/Basic-Calculator/) 
